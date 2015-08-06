@@ -37,5 +37,8 @@
   ],
   "dependencies": {
     "angular": "1.*"
+  },
+  "devDependencies": {
+    "angular-route": "~1.4.3"
   }
 }
