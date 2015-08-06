@@ -1,0 +1,41 @@
+{
+  "name": "ng-text-utils",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ptitdam2001/ngTextUtils",
+  "authors": [
+    "Damien Suhard <ptitdam2001@gmail.com>"
+  ],
+  "description": "List of angular filters and directive for texts",
+  "main": [
+    "dist/ng-text-utils.min.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com:ptitdam2001/ngTextUtils.git"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "text",
+    "angularjs",
+    "filters",
+    "service",
+    "directive",
+    "utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "1.*"
+  }
+}
