@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('ngTextUtils', [])
+angular.module('ptitdam2001.textUtils', [])
     .filter('truncate_characters', function () {
         return function (input, chars, breakOnWord) {
             if (isNaN(chars)) return input;
